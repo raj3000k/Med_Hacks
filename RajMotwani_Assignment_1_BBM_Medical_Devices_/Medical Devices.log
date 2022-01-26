@@ -1,0 +1,325 @@
+This is pdfTeX, Version 3.141592653-2.6-1.40.24 (MiKTeX 21.12.10) (preloaded format=pdflatex 2022.1.25)  26 JAN 2022 16:31
+entering extended mode
+ restricted \write18 enabled.
+ %&-line parsing enabled.
+**"./Medical Devices.tex"
+(Medical Devices.tex
+LaTeX2e <2021-11-15> patch level 1
+L3 programming layer <2022-01-21>
+(/Users/apple/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/
+article.cls
+Document Class: article 2021/10/04 v1.4n Standard LaTeX document class
+
+(/Users/apple/Library/Application Support/MiKTeX/texmfs/install/tex/latex/base/
+size12.clo
+File: size12.clo 2021/10/04 v1.4n Standard LaTeX file (size option)
+)
+\c@part=\count185
+\c@section=\count186
+\c@subsection=\count187
+\c@subsubsection=\count188
+\c@paragraph=\count189
+\c@subparagraph=\count190
+\c@figure=\count191
+\c@table=\count192
+\abovecaptionskip=\skip47
+\belowcaptionskip=\skip48
+\bibindent=\dimen138
+)
+(/Users/apple/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graph
+ics/graphicx.sty
+Package: graphicx 2021/09/16 v1.2d Enhanced LaTeX Graphics (DPC,SPQR)
+
+(/Users/apple/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graph
+ics/keyval.sty
+Package: keyval 2014/10/28 v1.15 key=value parser (DPC)
+\KV@toks@=\toks16
+)
+(/Users/apple/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graph
+ics/graphics.sty
+Package: graphics 2021/03/04 v1.4d Standard LaTeX Graphics (DPC,SPQR)
+
+(/Users/apple/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graph
+ics/trig.sty
+Package: trig 2021/08/11 v1.11 sin cos tan (DPC)
+)
+(/Users/apple/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graph
+ics-cfg/graphics.cfg
+File: graphics.cfg 2016/06/04 v1.11 sample graphics configuration
+)
+Package graphics Info: Driver file: pdftex.def on input line 107.
+
+(/Users/apple/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graph
+ics-def/pdftex.def
+File: pdftex.def 2020/10/05 v1.2a Graphics/color driver for pdftex
+))
+\Gin@req@height=\dimen139
+\Gin@req@width=\dimen140
+)
+(/Users/apple/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolo
+r/xcolor.sty
+Package: xcolor 2021/10/31 v2.13 LaTeX color extensions (UK)
+
+(/Users/apple/Library/Application Support/MiKTeX/texmfs/install/tex/latex/graph
+ics-cfg/color.cfg
+File: color.cfg 2016/01/02 v1.6 sample color configuration
+)
+Package xcolor Info: Driver file: pdftex.def on input line 227.
+Package xcolor Info: Model `cmy' substituted by `cmy0' on input line 1352.
+Package xcolor Info: Model `hsb' substituted by `rgb' on input line 1356.
+Package xcolor Info: Model `RGB' extended on input line 1368.
+Package xcolor Info: Model `HTML' substituted by `rgb' on input line 1370.
+Package xcolor Info: Model `Hsb' substituted by `hsb' on input line 1371.
+Package xcolor Info: Model `tHsb' substituted by `hsb' on input line 1372.
+Package xcolor Info: Model `HSB' substituted by `hsb' on input line 1373.
+Package xcolor Info: Model `Gray' substituted by `gray' on input line 1374.
+Package xcolor Info: Model `wave' substituted by `hsb' on input line 1375.
+
+(/Users/apple/Library/Application Support/MiKTeX/texmfs/install/tex/latex/xcolo
+r/x11nam.def
+File: x11nam.def 2021/10/31 v2.13 Predefined colors according to Unix/X11 (UK)
+))
+(/Users/apple/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geome
+try/geometry.sty
+Package: geometry 2020/01/02 v5.9 Page Geometry
+
+(/Users/apple/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ift
+ex/ifvtex.sty
+Package: ifvtex 2019/10/25 v1.7 ifvtex legacy package. Use iftex instead.
+
+(/Users/apple/Library/Application Support/MiKTeX/texmfs/install/tex/generic/ift
+ex/iftex.sty
+Package: iftex 2020/03/06 v1.0d TeX engine tests
+))
+\Gm@cnth=\count193
+\Gm@cntv=\count194
+\c@Gm@tempcnt=\count195
+\Gm@bindingoffset=\dimen141
+\Gm@wd@mp=\dimen142
+\Gm@odd@mp=\dimen143
+\Gm@even@mp=\dimen144
+\Gm@layoutwidth=\dimen145
+\Gm@layoutheight=\dimen146
+\Gm@layouthoffset=\dimen147
+\Gm@layoutvoffset=\dimen148
+\Gm@dimlist=\toks17
+
+(/Users/apple/Library/Application Support/MiKTeX/texmfs/install/tex/latex/geome
+try/geometry.cfg))
+(/Users/apple/Library/Application Support/MiKTeX/texmfs/install/tex/latex/l3bac
+kend/l3backend-pdftex.def
+File: l3backend-pdftex.def 2022-01-12 L3 backend support: PDF output (pdfTeX)
+\l__color_backend_stack_int=\count196
+\l__pdf_internal_box=\box50
+) (Medical Devices.aux)
+\openout1 = `"Medical Devices.aux"'.
+
+LaTeX Font Info:    Checking defaults for OML/cmm/m/it on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMS/cmsy/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OT1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for T1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for TS1/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for OMX/cmex/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+LaTeX Font Info:    Checking defaults for U/cmr/m/n on input line 13.
+LaTeX Font Info:    ... okay on input line 13.
+
+(/Users/apple/Library/Application Support/MiKTeX/texmfs/install/tex/context/bas
+e/mkii/supp-pdf.mkii
+[Loading MPS to PDF converter (version 2006.09.02).]
+\scratchcounter=\count197
+\scratchdimen=\dimen149
+\scratchbox=\box51
+\nofMPsegments=\count198
+\nofMParguments=\count199
+\everyMPshowfont=\toks18
+\MPscratchCnt=\count266
+\MPscratchDim=\dimen150
+\MPnumerator=\count267
+\makeMPintoPDFobject=\count268
+\everyMPtoPDFconversion=\toks19
+)
+(/Users/apple/Library/Application Support/MiKTeX/texmfs/install/tex/latex/epsto
+pdf-pkg/epstopdf-base.sty
+Package: epstopdf-base 2020-01-24 v2.11 Base part for package epstopdf
+Package epstopdf-base Info: Redefining graphics rule for `.eps' on input line 4
+85.
+
+(/Users/apple/Library/Application Support/MiKTeX/texmfs/install/tex/latex/00mik
+tex/epstopdf-sys.cfg
+File: epstopdf-sys.cfg 2021/03/18 v2.0 Configuration of epstopdf for MiKTeX
+))
+*geometry* driver: auto-detecting
+*geometry* detected driver: pdftex
+*geometry* verbose mode - [ preamble ] result:
+* driver: pdftex
+* paper: a4paper
+* layout: <same size as paper>
+* layoutoffset:(h,v)=(0.0pt,0.0pt)
+* modes: landscape 
+* h-part:(L,W,R)=(126.75832pt, 591.5302pt, 126.75833pt)
+* v-part:(T,H,B)=(71.70166pt, 418.25368pt, 107.55254pt)
+* \paperwidth=845.04684pt
+* \paperheight=597.50787pt
+* \textwidth=591.5302pt
+* \textheight=418.25368pt
+* \oddsidemargin=54.48833pt
+* \evensidemargin=54.48833pt
+* \topmargin=-37.56833pt
+* \headheight=12.0pt
+* \headsep=25.0pt
+* \topskip=12.0pt
+* \footskip=30.0pt
+* \marginparwidth=35.0pt
+* \marginparsep=10.0pt
+* \columnsep=10.0pt
+* \skip\footins=10.8pt plus 4.0pt minus 2.0pt
+* \hoffset=0.0pt
+* \voffset=0.0pt
+* \mag=1000
+* \@twocolumnfalse
+* \@twosidefalse
+* \@mparswitchfalse
+* \@reversemarginfalse
+* (1in=72.27pt=25.4mm, 1cm=28.453pt)
+
+<images//nitlogo.png, id=1, 299.1175pt x 335.2525pt>
+File: images//nitlogo.png Graphic file (type png)
+<use images//nitlogo.png>
+Package pdftex.def Info: images//nitlogo.png  used on input line 18.
+(pdftex.def)             Requested size: 179.47188pt x 201.15305pt.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <14.4> on input line 20.
+LaTeX Font Info:    External font `cmex10' loaded for size
+(Font)              <7> on input line 20.
+[1
+
+{/Users/apple/Library/Application Support/MiKTeX/texmfs/data/fonts/map/pdftex/p
+dftex.map} <./images//nitlogo.png>]
+<images//bil.jpg, id=10, 120.45pt x 54.9252pt>
+File: images//bil.jpg Graphic file (type jpg)
+<use images//bil.jpg>
+Package pdftex.def Info: images//bil.jpg  used on input line 29.
+(pdftex.def)             Requested size: 180.67453pt x 82.38757pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 42--45
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 46--48
+
+ []
+
+[2
+
+ <./images//bil.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 49--57
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--68
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 58--68
+
+ []
+
+<images//spi.jpg, id=15, 356.33125pt x 356.33125pt>
+File: images//spi.jpg Graphic file (type jpg)
+<use images//spi.jpg>
+Package pdftex.def Info: images//spi.jpg  used on input line 72.
+(pdftex.def)             Requested size: 142.52997pt x 142.52997pt.
+
+LaTeX Warning: `h' float specifier changed to `ht'.
+
+[3] [4 <./images//spi.jpg>] [5]
+<images//tis.jpg, id=25, 120.45pt x 120.45pt>
+File: images//tis.jpg Graphic file (type jpg)
+<use images//tis.jpg>
+Package pdftex.def Info: images//tis.jpg  used on input line 105.
+(pdftex.def)             Requested size: 120.44969pt x 120.44969pt.
+
+Underfull \hbox (badness 10000) in paragraph at lines 111--115
+
+ []
+
+[6 <./images//tis.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 122--126
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 122--126
+
+ []
+
+[7]
+Underfull \hbox (badness 10000) in paragraph at lines 127--130
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 127--130
+
+ []
+
+<images//ult.jpg, id=33, 501.875pt x 328.22626pt>
+File: images//ult.jpg Graphic file (type jpg)
+<use images//ult.jpg>
+Package pdftex.def Info: images//ult.jpg  used on input line 135.
+(pdftex.def)             Requested size: 180.67485pt x 118.16136pt.
+[8 <./images//ult.jpg>] [9]
+<images//pac.jpg, id=40, 481.8pt x 510.708pt>
+File: images//pac.jpg Graphic file (type jpg)
+<use images//pac.jpg>
+Package pdftex.def Info: images//pac.jpg  used on input line 155.
+(pdftex.def)             Requested size: 192.71658pt x 204.27957pt.
+ [10] [11 <./images//pac.jpg>]
+Underfull \hbox (badness 10000) in paragraph at lines 171--173
+
+ []
+
+
+Underfull \hbox (badness 10000) in paragraph at lines 174--176
+
+ []
+
+[12] [13] (Medical Devices.aux) ) 
+Here is how much of TeX's memory you used:
+ 2678 strings out of 478594
+ 43470 string characters out of 2836138
+ 360978 words of memory out of 3000000
+ 20866 multiletter control sequences out of 15000+600000
+ 471674 words of font info for 36 fonts, out of 8000000 for 9000
+ 1141 hyphenation exceptions out of 8191
+ 55i,7n,62p,1031b,229s stack positions out of 5000i,500n,10000p,200000b,80000s
+</Users/apple/Library/Application Support/MiKT
+eX/texmfs/install/fonts/type1/public/amsfonts/cm/cmbx12.pfb></Users/apple/Libra
+ry/Application Support/MiKTeX/texmfs/install/fonts/type1/public/amsfonts/cm/cmr
+12.pfb></Users/apple/Library/Application Support/MiKTeX/texmfs/install/fonts/ty
+pe1/public/amsfonts/cm/cmr17.pfb>
+Output written on "Medical Devices.pdf" (13 pages, 2683538 bytes).
+PDF statistics:
+ 68 PDF objects out of 1000 (max. 8388607)
+ 0 named destinations out of 1000 (max. 500000)
+ 31 words of extra memory for PDF output out of 10000 (max. 10000000)
+
